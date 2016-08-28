@@ -1,0 +1,12 @@
+
+section {
+  background-color: magenta;
+  border: 5px solid black;
+  /*height: 20px;
+  width: 30px;*/
+  margin: auto;
+}
+
+#love-box {
+  font-size: 3em;
+}
